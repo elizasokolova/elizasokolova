@@ -17,8 +17,17 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
 ---
+
+## 📝 Проекты в рамках курса "Web-разработчик" Я.Практикум:
+
+
+- Спринт 1-2 - [How to learn](https://github.com/elizasokolova/how-to-learn)
+- Спринт 3 - [Russian travel](https://github.com/elizasokolova/russian-travel)  +  [Ссылка на сайт](https://elizasokolova.github.io/russian-travel/index.html)
+- Спринт 4-5-6-7-8-9 - [Mesto](https://github.com/elizasokolova/mesto)
+- Спринт 13-14 - [Mesto](https://github.com/elizasokolova/express-mesto-gha) (Backend for Mesto)
+- Спринт 15 - [Mesto Fullstack](https://github.com/elizasokolova/react-mesto-api-full) (Mesto fullstack)  +  [Ссылка на сайт]( https://lizasokol.students.nomoredomains.xyz)
+- [Дипломная работа](https://github.com/elizasokolova/movies-explorer-frontend) (Movies explorer)  +  [Ссылка на сайт](https://lizasokol.nomorepartiesxyz.ru/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizasokolova&layout=compact)
 
